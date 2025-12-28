@@ -67,7 +67,7 @@ t.jogo_do_galo('X', 'perfeito')
 
 ---
 
-<img src="ninemenmorris" alt="Nine Men's Morries Example" width="500"/>
+<img src="ninemenmorris.png" alt="Nine Men's Morries Example" width="500"/>
 
 ## 🎯 Nine Men's Morris (`ninemanmorris.py`)
 
